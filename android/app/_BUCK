@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.primerproyecto",
+    package = "com.proyectosandroid",
 )
 
 android_resource(
     name = "res",
-    package = "com.primerproyecto",
+    package = "com.proyectosandroid",
     res = "src/main/res",
 )
 
